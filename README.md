@@ -1,2 +1,2 @@
 # ocamlPool
-My 42 pool of Ocaml
+42 pool of Ocaml
